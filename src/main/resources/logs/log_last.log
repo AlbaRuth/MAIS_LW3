@@ -1,0 +1,42 @@
+13:45:09:009 [main] INFO  org.example.FileReader.TriangleFileReader - Чтение файла треугольника из: C:\Users\memch\Desktop\MAIS_LW3\src\main\resources\input.txt
+13:45:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0)
+13:45:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 3.0)
+13:45:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.entity.Triangle - Создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.entity.Triangle - Треугольник успешно создан: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.Factories.TriangleFactory - Создан треугольник с ID 1: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.FileReader.TriangleFileReader - Успешно создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:45:09:009 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:54:08:008 [main] INFO  org.example.FileReader.TriangleFileReader - Чтение файла треугольника из: C:\Users\memch\Desktop\MAIS_LW3\src\main\resources\input.txt
+13:54:08:008 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0)
+13:54:08:008 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 3.0)
+13:54:08:008 [main] INFO  org.example.entity.Point - Создана точка: Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.entity.Triangle - Создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.entity.Triangle - Треугольник успешно создан: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.Factories.TriangleFactory - Создан треугольник с ID 1: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.FileReader.TriangleFileReader - Успешно создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:54:08:008 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:55:04:004 [main] INFO  org.example.FileReader.TriangleFileReader - Чтение файла треугольника из: C:\Users\memch\Desktop\MAIS_LW3\src\main\resources\input.txt
+13:55:04:004 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0)
+13:55:04:004 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 3.0)
+13:55:04:004 [main] INFO  org.example.entity.Point - Создана точка: Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.entity.Triangle - Создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.entity.Triangle - Треугольник успешно создан: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.Factories.TriangleFactory - Создан треугольник с ID 1: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.FileReader.TriangleFileReader - Успешно создан треугольник: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Проверка валидности треугольника: Triangle(1): Point(1.0, 1.0), Point(3.0, 3.0), Point(5.0, 1.0)
+13:55:04:004 [main] INFO  org.example.services.TriangleValidator - Треугольник валиден.

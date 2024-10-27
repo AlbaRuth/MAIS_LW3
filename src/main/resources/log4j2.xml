@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="filename">./src/main/resources/logs</Property>
+	</Properties>
+	<Appenders>
+		<RollingFile name="file" fileName="${filename}/log_last.log"
+			filePattern="${filename}/log_%d{HH}h%d{mm}m%d{ss}s%d{sss}ms.log">
+			<!--  filePattern="target/rolling1/test1-${sd:type}.%i.log.gz">  -->
+			<PatternLayout>
+				<pattern>%d{HH:mm:ss:sss} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="20 KB" />
+		</RollingFile>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="MAIS_LW3" level="info" additivity="false"> </Logger>
+		<Root level="info">
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>
